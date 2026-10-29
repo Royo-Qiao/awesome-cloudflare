@@ -1,3 +1,5 @@
+> This is a fork of [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare). The upstream categories, entries, translations and attribution are preserved. Check upstream for newer additions and each linked project for its own deployment instructions, availability and license.
+
 <div align="center">
 
 <h1 align="center">Awesome Cloudflare <img src="https://img.shields.io/github/stars/zhuima/awesome-cloudflare?label=Stars" alt="stars"></h1>

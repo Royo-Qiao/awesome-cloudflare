@@ -1,3 +1,5 @@
+> 本仓库是 [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) 的派生副本，保留上游整理的分类、条目、多语言版本与归属。最新收录请同时查看上游；第三方项目的部署、可用性和许可请以各自原仓库为准。
+
 <div align="center">
 
 <h1 align="center">Awesome Cloudflare <img src="https://img.shields.io/github/stars/zhuima/awesome-cloudflare?label=Stars" alt="stars"></h1>
